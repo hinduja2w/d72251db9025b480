@@ -1,0 +1,8 @@
+Video URL:
+https://hinduja2w.github.io/player/?list=https://raw.githubusercontent.com/hinduja2w/d72251db9025b480/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://hinduja2w.github.io/player/?list=https://raw.githubusercontent.com/hinduja2w/d72251db9025b480/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Subtitles:
+  - eng (Subtitle 1): https://pub-02a3a857ed68473582dbf7ab469a3932.r2.dev/subtitles/0ce655c5fed60f85_eng_0.srt
